@@ -1,13 +1,10 @@
 #pragma once
-#include <iostream>
-#include <string>
+#include "Human.h"
 
 using namespace std;
 
-class Student {
+class Student : public Human {
 private:
-	string name;
-	int age;
 	double mark;
 	static int count;
 public:
@@ -21,11 +18,6 @@ public:
 	Student(string name);
 	Student(string, int, double);
 	~Student();
-
-	string getName();
-
-	int getAge();
-	void setAge(int a);
 
 	double getMark();
 	void setMark(int m);
