@@ -22,5 +22,18 @@ public:
 	int getAge();
 	void setAge(int age);
 
+	int sum(double a, double b);
+	int sum(int a, int b);
+	int sum(int a, int b, int c);
+
+	Human& operator+(int value) {
+		Human h(name, age + value);
+		return h;
+	}
+	Human& operator+(Human& human) {
+		Human h(name + "-" + human.name, age + human.age);
+		return h;
+	}
+
 	string getInfo();
 };

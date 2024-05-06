@@ -19,3 +19,14 @@ string Human::getInfo() {
 	s += to_string(age);
 	return s;
 };												                                                     
+
+
+int Human::sum(double a, double b) {
+	return a + b;
+};
+int Human::sum(int a, int b) {
+	return a + b;
+};
+int Human::sum(int a, int b, int c) {
+	return a + b + c;
+};
