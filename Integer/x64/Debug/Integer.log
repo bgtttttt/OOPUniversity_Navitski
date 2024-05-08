@@ -1,0 +1,9 @@
+﻿  Integer.cpp
+E:\NavitskiVladislav\Integer\Integer.cpp(17): warning C4172:  returning address of local variable or temporary: res
+E:\NavitskiVladislav\Integer\Integer.cpp(9): warning C4172:  returning address of local variable or temporary: res
+E:\NavitskiVladislav\Integer\Integer.cpp(5): warning C4172:  returning address of local variable or temporary: res
+E:\NavitskiVladislav\Integer\Integer.cpp(21): warning C4172:  returning address of local variable or temporary: res
+E:\NavitskiVladislav\Integer\Integer.cpp(33): warning C4172:  returning address of local variable or temporary: res
+E:\NavitskiVladislav\Integer\Integer.cpp(29): warning C4172:  returning address of local variable or temporary: res
+E:\NavitskiVladislav\Integer\Integer.cpp(13): warning C4172:  returning address of local variable or temporary: res
+  Integer.vcxproj -> E:\NavitskiVladislav\OOPUniversity_Navitski\x64\Debug\Integer.exe
