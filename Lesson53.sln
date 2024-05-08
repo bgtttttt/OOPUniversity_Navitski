@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson53", "Lesson53.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project02", "Project02\Project02.vcxproj", "{10C40DB1-932C-4E41-AAC4-4F4AB4010466}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Integer", "..\Integer\Integer.vcxproj", "{417DAB1C-1591-4E1E-B2E7-BA6B27A30B69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{10C40DB1-932C-4E41-AAC4-4F4AB4010466}.Release|x64.Build.0 = Release|x64
 		{10C40DB1-932C-4E41-AAC4-4F4AB4010466}.Release|x86.ActiveCfg = Release|Win32
 		{10C40DB1-932C-4E41-AAC4-4F4AB4010466}.Release|x86.Build.0 = Release|Win32
+		{417DAB1C-1591-4E1E-B2E7-BA6B27A30B69}.Debug|x64.ActiveCfg = Debug|x64
+		{417DAB1C-1591-4E1E-B2E7-BA6B27A30B69}.Debug|x64.Build.0 = Debug|x64
+		{417DAB1C-1591-4E1E-B2E7-BA6B27A30B69}.Debug|x86.ActiveCfg = Debug|Win32
+		{417DAB1C-1591-4E1E-B2E7-BA6B27A30B69}.Debug|x86.Build.0 = Debug|Win32
+		{417DAB1C-1591-4E1E-B2E7-BA6B27A30B69}.Release|x64.ActiveCfg = Release|x64
+		{417DAB1C-1591-4E1E-B2E7-BA6B27A30B69}.Release|x64.Build.0 = Release|x64
+		{417DAB1C-1591-4E1E-B2E7-BA6B27A30B69}.Release|x86.ActiveCfg = Release|Win32
+		{417DAB1C-1591-4E1E-B2E7-BA6B27A30B69}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
