@@ -33,6 +33,27 @@ Integer& Integer::operator-() {
 	Integer res(-num);
 	return res;
 };
+Integer& Integer::operator++() {
+	++num;
+	return *this;
+};
+Integer& Integer::operator++(int) {
+	Integer res = *this;
+	++num;
+	return res;
+};
+Integer& Integer::operator--() {
+	--num;
+	return *this;
+};
+Integer& Integer::operator--(int) {
+	Integer res = *this;
+	--num;
+	return res;
+};
+
+
+
 int Integer::getNumber() {
 	return num;
 }

@@ -26,5 +26,8 @@
     <ClInclude Include="Integer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Operators.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

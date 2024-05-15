@@ -17,6 +17,10 @@ public:
 	Integer& operator%(Integer value);
 	Integer& operator^(Integer value);
 	Integer& operator-();
+	Integer& operator++();
+	Integer& operator++(int);
+	Integer& operator--();
+	Integer& operator--(int);
 	int getNumber();
 };
 
