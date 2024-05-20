@@ -1,4 +1,4 @@
-#include "Operators.h"
+#include "Integer.h"
 
 int main() {
 	Integer num1(10);

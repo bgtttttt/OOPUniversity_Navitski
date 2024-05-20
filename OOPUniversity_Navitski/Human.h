@@ -1,9 +1,9 @@
+#pragma once
 #include <string>
 #include <iostream>
 using namespace std;
 
-class Human
-{
+class Human {
 private:
 	string name;
 	int age;
