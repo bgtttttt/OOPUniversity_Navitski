@@ -18,8 +18,5 @@ public:
 
 
 int main() {
-	A* a = new B();
-	a->start();
-	
 	return 0;
 }
