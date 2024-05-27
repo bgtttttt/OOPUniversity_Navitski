@@ -1,4 +1,7 @@
-﻿  main.cpp
+﻿  Circle.cpp
+  Editor.cpp
+  Figure.cpp
   Rectangle.cpp
+  main.cpp
   Generating Code...
   GraphicProject.vcxproj -> E:\NavitskiVladislav\OOPUniversity_Navitski\x64\Debug\GraphicProject.exe
