@@ -1,5 +1,6 @@
 ﻿  BeeHive.cpp
   BeeKeeper.cpp
+  WorkerBee.cpp
   main.cpp
   Generating Code...
   BEEProject.vcxproj -> E:\NavitskiVladislav\OOPUniversity_Navitski\x64\Debug\BEEProject.exe
